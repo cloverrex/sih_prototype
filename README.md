@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+This branch's website can be accessed at [https://prototype-1-sihprototype-delta.vercel.app/](https://prototype-1-sihprototype-delta.vercel.app/)
 
 ## Getting Started
 
